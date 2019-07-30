@@ -3,9 +3,9 @@ ZX81+35
 
 ZX81+35 is a 2016 clone of the Sinclair ZX81, using modern (SMT) components on a small (10x10cm) PCB
 
-Previously (five years ago I named it ZX14) but after two years working on it, I changed my mind and renamed it to ZX-81+35 to clarify that my copy was first designed 35 years after the original
+Previously (five years ago I named it ZX14) but after two years working on it, I changed my mind and renamed it to ZX81+35 to clarify that my copy was first designed 35 years after the original
 
-There are three versions of my clone, the first prototype was called ZX-81+34 (Rev 1.0) and a prototype was build and tested. This PCB needed many patches, for example the 5V and GND signals on the micro-USB port was inverted, and the footprint for the crystal oscillator I chose was wrong.
+There are three versions of my clone, the first prototype was called ZX81+34 (Rev 1.0) and a prototype was build and tested. This PCB needed many patches, for example the 5V and GND signals on the micro-USB port was inverted, and the footprint for the crystal oscillator I chose was wrong.
 
 The second PCB I made and tested was called ZX81+35 (rev 2.2) and was tested in 2016, and only needed a minor patch to work, and some patches to improve cassette loading. 
 
