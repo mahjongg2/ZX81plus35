@@ -16,8 +16,12 @@ https://revspace.nl/Designing_the_RhoCoCo_Retro_Home_COlor_COmputer_hardware
 A complete step by step description of all improvements I did for Rev 4.0 upto september 2016 can be read here:
 https://revspace.nl/ZX81PLUS34_ZX81_clone
 
-Recently (june 2019) I became aware there is interest in my project, so I'm willing to release the latest schematics gerbers and drill files here, so anyone can pick this up and create his own version.
+Recently (june 2019) I became aware there is interest in my project, so I'm willing to release the latest schematics, BOM, gerbers and drill files here, so anyone can pick this up and create his own version. For now I uploaded the files I have, some are on an old laptop, so will take some more work.
+
+I updated the older BOM so its compatible with revision 4.0
 
 I also designed a keyboard overlay for a keyboard with 40 6x6mm buttons mounted in a 1/10" raster.
-I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, Iḿ reasonably sure though that the keyboard PCB is compatible with rev 4.0
+I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, Iḿ reasonably sure though that the keyboard PCB is compatible with rev 4.0, if I can find the old layout and check it for compatibility with Rev 4.0
+
+Will also try to find the keyboard overlay in 1:1 scale.
 
