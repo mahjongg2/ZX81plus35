@@ -1,7 +1,7 @@
 ZX81+35
 ====
 
-ZX81+35 is a 2016 clone of the Sinclair ZX81, using modern (SMT) components on a small (10x10cm) PCB
+ZX81+35 is a clone of the Sinclair ZX81, started in 2014, and finished in 2016, that uses modern (SMT) components on a small (10x10cm) PCB, it only uses commercially available parts, so no ULA, and works with the original ZX81 ROM code.
 
 Previously (five years ago I named it ZX14) but after two years working on it, I changed my mind and renamed it to ZX81+35 to clarify that my copy was first designed 35 years after the original
 
