@@ -13,15 +13,19 @@ The third version (revisions 3 and later) were never tested, but all improvement
 This version fully worked as a ZX81 clone, but was not released because I could not get the turbo (overclocking) to work with a stable picture, so I stalled its release, and eventually I gave up on getting turbo mode to work. And started to work on a color home computer called RhoCoCo, information on that one can be found here:
 https://revspace.nl/Designing_the_RhoCoCo_Retro_Home_COlor_COmputer_hardware
 
-This version of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals (using a stip of PCB fingers soldered to the pinheader edge connector, and has an onboard extra 8-bit output port, that can be used to drive an LCD display, and adds 4-bit sound (although these latter options were never tested, but they should work with a suitable software driver).
+This version of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals, (using an adapter consisting of a strip of PCB fingers soldered to a female pinheader connector)
 
-It also has both acceleration features, which enabling can be combined using a dual pole switch located on the back of the board, or can be individually enabled using two jumpers. When loading original cassettes turbo mode should be diasabled.
+It also has an onboard extra 8-bit output port, that can be used to drive an LCD display, and adds 4-bit sound (although these latter options were never tested, but they should individually work with a suitable software driver). The 8-bit output can also be used for general purpose outputs, and there is also one general purpose input
 
-The keyboard supports a reset input, (pressing two buttons simulatiously) as well as turbo and power on LED's, but should otherwise be fully compatible with a real ZX81.
+It also has both acceleration features, which enabling can be combined using a dual pole switch located on the back of the board, or can be individually enabled using two jumpers. When loading original cassettes turbo mode should be disabled.
 
-A complete step by step description of the design process with all improvements I did for Rev 4.0 upto september 2016 can be read here:
+The keyboard supports a reset input, (pressing two buttons simultaniously) as well as turbo and power on LED's, but should otherwise be fully compatible with a real ZX81.
+
+A complete step by step description of the design process with all improvements I did for Rev 4.0 up-to september 2016 can be read here:
 https://revspace.nl/ZX81PLUS34_ZX81_clone
 
+release
+===
 Recently (june 2019) I became aware there is interest in my project, so I'm willing to release the latest schematics, BOM, gerbers and drill files here, so anyone can pick this up and create his own version. For now I uploaded the files I have, some are on an old laptop, so will take some more work.
 
 I updated the older BOM so its compatible with revision 4.0
