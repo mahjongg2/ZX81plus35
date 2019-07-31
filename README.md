@@ -3,6 +3,8 @@ ZX81+35
 
 ZX81+35 is my clone of the Sinclair ZX81, started in 2014, and finished in 2016, it uses modern (SMT) components on a small (10x10cm) PCB, and only uses commercially available parts, so no ULA, and works with the original ZX81 ROM code, and has the maximum possible of 32K of RAM buit in. it supports the back-porch patch which makes it better compatible with modern TV's for clear bright and sharp video.
 
+Its called ZX81plus35 here because github doesn't allow for the plus sign in project names.
+
 Previously (in 2014) I named it ZX14 but after two years working on it, I changed my mind and renamed it to first to ZX81+34 and later to ZX81+35 to clarify that my copy was first designed 34/35 years after the original.
 
 There are three versions of my clone, the first prototype I designed was called ZX81+34 (Rev 1.0) and was build and tested. This PCB needed many patches, for example the 5V and GND signals on the micro-USB port were inverted, and the footprint for the crystal oscillator I chose was wrong.
@@ -18,7 +20,7 @@ This version of ZX81+35 has an expansion port that is corrected and should work 
 
 The pin-header edge connector should eliminate the infamous unreliability (wobble) of the expansion connector. Its location on the side of the board (instead of the back) is chosen so that like Sinclairs Quantum leap computer expansion packs can reside within the enclosure of the computer. 
 
-It also has an onboard extra 8-bit output port, that can be used to drive an LCD display, and adds 4-bit sound (although these latter options were never tested, but they should individually work with a suitable software driver). The 8-bit output can also be used for general purpose outputs, and there is also one general purpose input.
+The ZX81+35 also has an onboard extra 8-bit output port, that can be used to drive an LCD display, and adds 4-bit sound (although these latter options were never tested, but they should individually work with a suitable software driver). The 8-bit output can also be used for general purpose outputs, and there is also one general purpose input.
 
 It also has both acceleration features, which enabling can be combined using a dual pole switch located on the back of the board, or can be individually enabled using two jumpers. When loading original cassettes turbo mode should be disabled.
 
