@@ -35,6 +35,8 @@ Recently (june 2019) I became aware there is interest in my project, so I'm will
 
 I updated the older BOM so its compatible with revision 4.0
 
+This design was developed with Ultiboard, (now National instruments NI Ultiboard) the schematic is released as a .UTSCH file, and the layout as .ewprj, hopefully they can be opened with a recent version of NI Ultiboard. I used a version of Ultiboard before they were aquired by NI, but I did not try newer versions. Its one reason why I switched to KiCad.
+
 I also designed a keyboard overlay for a keyboard with 40 6x6mm buttons mounted in a 1/10" raster.
 I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, Iḿ reasonably sure though that the keyboard PCB is compatible with rev 4.0, if I can find the old layout and check it for compatibility with Rev 4.0
 
