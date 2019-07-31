@@ -37,6 +37,10 @@ I updated the older BOM so its compatible with revision 4.0
 
 This design was developed with Ultiboard, (now National instruments NI Ultiboard) the schematic is released as a .UTSCH file, and the layout as .ewprj, hopefully they can be opened with a recent version of NI Ultiboard. I used a version of Ultiboard before they were aquired by NI, but I did not try newer versions. Its one reason why I switched to KiCad.
 
+I opened the earlier uploaded ZX81+35 REV 4.ewprj file with ultiboard, which was an older backup, so I uploaded a newer version, although this one is missing copper files, but this should not influence how well the PCB works.
+
+I also uploaded production files, that is gerber and drill files, zipped into an archive with all files for the production of revision 4.0 PCB's. Freshly exported from the latest ultiboard files I had, which were tested for design errors before I made these files.
+
 I also designed a keyboard overlay for a keyboard with 40 6x6mm buttons mounted in a 1/10" raster.
 I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, Iḿ reasonably sure though that the keyboard PCB is compatible with rev 4.0, if I can find the old layout and check it for compatibility with Rev 4.0
 
