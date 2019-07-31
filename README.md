@@ -33,4 +33,9 @@ I updated the older BOM so its compatible with revision 4.0
 I also designed a keyboard overlay for a keyboard with 40 6x6mm buttons mounted in a 1/10" raster.
 I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, Iḿ reasonably sure though that the keyboard PCB is compatible with rev 4.0, if I can find the old layout and check it for compatibility with Rev 4.0
 
+## Licence
+
+Unless otherwise specified, everything in this repository is covered by the following licence:
+
+[![Creative Commons Attribution-ShareAlike 4.0 International](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
