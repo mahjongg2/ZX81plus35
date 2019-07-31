@@ -1,21 +1,24 @@
 ZX81+35
 ====
 
-ZX81+35 is my clone of the Sinclair ZX81, started in 2014, and finished in 2016, it uses modern (SMT) components on a small (10x10cm) PCB, and only uses commercially available parts, so no ULA, and works with the original ZX81 ROM code.
+ZX81+35 is my clone of the Sinclair ZX81, started in 2014, and finished in 2016, it uses modern (SMT) components on a small (10x10cm) PCB, and only uses commercially available parts, so no ULA, and works with the original ZX81 ROM code, and has the maximum possible of 32K of RAM buit in. it supports the back-porch patch which makes it better compatible with modern TV's for clear bright and sharp video.
 
-Previously (in 2014) I named it ZX14 but after two years working on it, I changed my mind and renamed it to first to ZX81+34 and later to ZX81+35 to clarify that my copy was first designed 34/35 years after the original
+Previously (in 2014) I named it ZX14 but after two years working on it, I changed my mind and renamed it to first to ZX81+34 and later to ZX81+35 to clarify that my copy was first designed 34/35 years after the original.
 
 There are three versions of my clone, the first prototype I designed was called ZX81+34 (Rev 1.0) and was build and tested. This PCB needed many patches, for example the 5V and GND signals on the micro-USB port were inverted, and the footprint for the crystal oscillator I chose was wrong.
 
-The second PCB I made and tested was called ZX81+35 (rev 2.2) and was tested in 2016, and only needed a minor patch to work, and some patches to improve cassette loading. 
+The second PCB I made and tested was called ZX81+35 (rev 2.2) and was tested in 2016, and only needed a minor patch to work, and some patches to improve cassette loading. This version fully worked as a ZX81 clone, and was compatible enough to run everything I threw at it, including high resolution graphics.
 
-The third version (revisions 3 and later) were never tested, but all improvements found were implemented in the layout, and patches tested on the Rev 2.2 PCB. this latest version was rev 4.0
-This version fully worked as a ZX81 clone, but was not released because I could not get the turbo (overclocking) to work with a stable picture, so I stalled its release, and eventually I gave up on getting turbo mode to work. And started to work on a color home computer called RhoCoCo, information on that one can be found here:
+The third version (revisions 3 and later) were never tested, but all improvements found were implemented in the layout, and patches tested on the Rev 2.2 PCB. the latest version was rev 4.0
+
+It was not released because I could not get the turbo (overclocking) to work with a stable picture, so I stalled its release, and eventually I gave up on getting turbo mode to work, as I started to work on a color home computer of my own design called RhoCoCo, information on that one can be found here:
 https://revspace.nl/Designing_the_RhoCoCo_Retro_Home_COlor_COmputer_hardware
 
-This version of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals, (using an adapter consisting of a strip of PCB fingers soldered to a female pinheader connector)
+This version of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals, (using an adapter consisting of a strip of PCB fingers soldered to a female pinheader connector) and directly on my own peripherals (I designed a version of the ZON PSG board for it) https://revspace.nl/Zon_X-81_Programmable_Sound_Generator_expansion_for_ZX81PLUS35. 
 
-It also has an onboard extra 8-bit output port, that can be used to drive an LCD display, and adds 4-bit sound (although these latter options were never tested, but they should individually work with a suitable software driver). The 8-bit output can also be used for general purpose outputs, and there is also one general purpose input
+The pin-header edge connector should eliminate the infamous unreliability (wobble) of the expansion connector. Its location on the side of the board (instead of the back) is chosen so that like Sinclairs Quantum leap computer expansion packs can reside within the enclosure of the computer. 
+
+It also has an onboard extra 8-bit output port, that can be used to drive an LCD display, and adds 4-bit sound (although these latter options were never tested, but they should individually work with a suitable software driver). The 8-bit output can also be used for general purpose outputs, and there is also one general purpose input.
 
 It also has both acceleration features, which enabling can be combined using a dual pole switch located on the back of the board, or can be individually enabled using two jumpers. When loading original cassettes turbo mode should be disabled.
 
