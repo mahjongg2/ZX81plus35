@@ -11,12 +11,12 @@ There are three versions of my clone, the first prototype I designed was called 
 
 The second PCB I made and tested was called ZX81+35 (rev 2.2) and was tested in 2016, and only needed a minor patch to work, and some patches to improve cassette loading. This version fully worked as a ZX81 clone, and was compatible enough to run everything I threw at it, including high resolution graphics.
 
-The third version (revisions 3 and later) were never tested, but all improvements found were implemented in the layout, and patches tested on the Rev 2.2 PCB. the latest version was rev 4.0
+The third version (revisions 2.3 and later) were never tested, but all improvements found were implemented in the layout, and patches tested on the Rev 2.2 PCB. Rev 2.3 contains the patches I found when testing rev 2.2, the latest version was rev 4.0 which has an 180 degrees rotated expansion header, for full compatibility with the real ZX81, and my PSG board.
 
-It was not released because I could not get the turbo (overclocking) to work with a stable picture, so I stalled its release, and eventually I gave up on getting turbo mode to work, as I started to work on a color home computer of my own design called RhoCoCo, information on that one can be found here:
+It was not released when rev 4.0 was ready, because I could not get the turbo (overclocking) to work with a stable picture, so I stalled its release, and eventually I gave up on getting turbo mode to work, as I started to work on a color home computer of my own design called RhoCoCo, information on that one can be found here:
 https://revspace.nl/Designing_the_RhoCoCo_Retro_Home_COlor_COmputer_hardware
 
-Revision 4.0 of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals, (using an adapter consisting of a strip of PCB fingers soldered to a female pinheader connector) and directly on my own peripherals (I designed a version of the ZON PSG board for it) https://revspace.nl/Zon_X-81_Programmable_Sound_Generator_expansion_for_ZX81PLUS35. 
+So revision 4.0 of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals, (using an adapter consisting of a strip of PCB fingers soldered to a female pinheader connector) and directly on my own peripherals (I designed a version of the ZON PSG board for it) https://revspace.nl/Zon_X-81_Programmable_Sound_Generator_expansion_for_ZX81PLUS35. 
 
 The pin-header edge connector should eliminate the infamous unreliability (wobble) of the expansion connector. Its location on the side of the board (instead of the back) is chosen so that like Sinclairs Quantum leap computer expansion packs can reside within the enclosure of the computer. 
 
