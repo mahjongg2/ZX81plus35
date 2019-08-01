@@ -16,7 +16,7 @@ The third version (revisions 3 and later) were never tested, but all improvement
 It was not released because I could not get the turbo (overclocking) to work with a stable picture, so I stalled its release, and eventually I gave up on getting turbo mode to work, as I started to work on a color home computer of my own design called RhoCoCo, information on that one can be found here:
 https://revspace.nl/Designing_the_RhoCoCo_Retro_Home_COlor_COmputer_hardware
 
-This version of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals, (using an adapter consisting of a strip of PCB fingers soldered to a female pinheader connector) and directly on my own peripherals (I designed a version of the ZON PSG board for it) https://revspace.nl/Zon_X-81_Programmable_Sound_Generator_expansion_for_ZX81PLUS35. 
+Revision 4.0 of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals, (using an adapter consisting of a strip of PCB fingers soldered to a female pinheader connector) and directly on my own peripherals (I designed a version of the ZON PSG board for it) https://revspace.nl/Zon_X-81_Programmable_Sound_Generator_expansion_for_ZX81PLUS35. 
 
 The pin-header edge connector should eliminate the infamous unreliability (wobble) of the expansion connector. Its location on the side of the board (instead of the back) is chosen so that like Sinclairs Quantum leap computer expansion packs can reside within the enclosure of the computer. 
 
@@ -39,7 +39,8 @@ This design was developed with Ultiboard, (now National instruments NI Ultiboard
 
 I opened the earlier uploaded ZX81+35 REV 4.ewprj file with ultiboard, which was an older backup, so I uploaded a newer version, although this one is missing copper files, but this should not influence how well the PCB works.
 
-I also uploaded production files, that is gerber and drill files, zipped into an archive with all files for the production of revision 4.0 PCB's. Freshly exported from the latest ultiboard files I had, which were tested for design errors before I made these files.
+The "ZX81plus35rev 4.0 no copper fill.ewprj" File and the "ZX81plus35rev 4.0 production files no copper fill.zip" I uploaded on July 31, 2016 actually contain revision 2.3 files. Rev 2.3 does the patches, and will work fine, but they are not real rev 4.0 versions, that is their expansion ports are mirrored and are not compatible with a real ZX81, for that you will need a real revision 4.0 board. Unfortunately github does not allow me to rename these files to make it clear they are rev 2.3.
+I will replace these with real rev 4.0 versions later.
 
 I also designed a keyboard overlay for a keyboard with 40 6x6mm buttons mounted in a 1/10" raster.
 I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, Iḿ reasonably sure though that the keyboard PCB is compatible with rev 4.0, if I can find the old layout and check it for compatibility with Rev 4.0
