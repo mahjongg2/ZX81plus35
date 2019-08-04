@@ -37,13 +37,14 @@ I updated the older BOM so its compatible with revision 4.0
 
 This design was developed with Ultiboard, (now National instruments NI Ultiboard) the schematic is released as a .UTSCH file, and the layout as .ewprj, hopefully they can be opened with a recent version of NI Ultiboard. I used a version of Ultiboard before they were aquired by NI, but I did not try newer versions. Its one reason why I switched to KiCad.
 
-I opened the earlier uploaded ZX81+35 REV 4.ewprj file with ultiboard, which was an older backup, so I uploaded a newer version, although this one is missing copper files, but this should not influence how well the PCB works.
+The revision 4.0 files released here were never turned into a PCB, and tested, but because revision 2.2 was working fine after some patches, and the only difference toward rev 4 was the patches I added to Rev 2.2, and rhe reversal of the expansion connector, I have no doubt version 4.0 will work fine, netlist checking against the schematic, and error checking makes me sure of that.
 
-The "ZX81plus35rev 4.0 no copper fill.ewprj" File and the "ZX81plus35rev 4.0 production files no copper fill.zip" I uploaded on July 31, 2016 actually contain revision 2.3 files. Rev 2.3 does the patches, and will work fine, but they are not real rev 4.0 versions, that is their expansion ports are mirrored and are not compatible with a real ZX81, for that you will need a real revision 4.0 board. Unfortunately github does not allow me to rename these files to make it clear they are rev 2.3.
-I will replace these with real rev 4.0 versions later.
+Obviously I would love to have some feedback if you choose to build my ZX81 clone, you can reach me on the Raspberry PI forum, in this thread:
+https://www.raspberrypi.org/forums/viewtopic.php?f=62&t=77429
 
 I also designed a keyboard overlay for a keyboard with 40 6x6mm buttons mounted in a 1/10" raster.
-I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, Iḿ reasonably sure though that the keyboard PCB is compatible with rev 4.0, if I can find the old layout and check it for compatibility with Rev 4.0
+I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, I'm reasonably sure though that the keyboard PCB is compatible with rev 4.0, if I can find the old layout and check it for compatibility with Rev 4.0 I will upload it here, in any case a working keyboard overlay tht will work with a veroboard hoebrew, or a real keyboard PCB has been uploaded.
+best way to use it is to laminate the printout with transparent plastic, and to punch out the holes for the key plungers.
 
 ## Licence
 
