@@ -18,6 +18,10 @@ https://revspace.nl/Designing_the_RhoCoCo_Retro_Home_COlor_COmputer_hardware
 
 So revision 4.0 of ZX81+35 has an expansion port that is corrected and should work with ZX81 peripherals, (using an adapter consisting of a strip of PCB fingers soldered to a female pinheader connector) and directly on my own peripherals (I designed a version of the ZON PSG board for it) https://revspace.nl/Zon_X-81_Programmable_Sound_Generator_expansion_for_ZX81PLUS35. 
 
+The PCB for my ZON compatible PSG with support for an SD-card reader can be find here on github https://github.com/mahjongg2/PSG-for-ZX81-35-ZX81-clone.
+Note that it was the last thing I designed for my ZX81 clone, and it was not tested, as it would only work with the corrected expansion port (the revision 4 board).
+it should work, and be compatibe with a ZON, and with an adapter, with a real ZX81.
+
 The pin-header edge connector should eliminate the infamous unreliability (wobble) of the expansion connector. Its location on the side of the board (instead of the back) is chosen so that like Sinclairs Quantum leap computer expansion packs can reside within the enclosure of the computer. 
 
 The ZX81+35 also has an onboard extra 8-bit output port, that can be used to drive an LCD display, and adds 4-bit sound (although these latter options were never tested, but they should individually work with a suitable software driver). The 8-bit output can also be used for general purpose outputs, and there is also one general purpose input.
