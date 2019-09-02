@@ -43,11 +43,13 @@ This design was developed with Ultiboard, (now National instruments NI Ultiboard
 
 The revision 4.0 files released here were never turned into a PCB, and tested, but because revision 2.2 was working fine after some patches, and the only difference toward rev 4 was the patches I added to Rev 2.2, and rhe reversal of the expansion connector, I have no doubt version 4.0 will work fine, netlist checking against the schematic, and error checking makes me sure of that.
 
+To ease the assembly I constructed an assembly drawing showing which components go where on the PCB, use it together with the Schematic, and Bill of Materials (BOM) to build up the PCB.
+
 Obviously I would love to have some feedback if you choose to build my ZX81 clone, you can reach me on the Raspberry PI forum, in this thread:
 https://www.raspberrypi.org/forums/viewtopic.php?f=62&t=77429
 
 I also designed a keyboard overlay for a keyboard with 40 6x6mm buttons mounted in a 1/10" raster.
-I designed a (single sided) keyboard PCB for it, but never tested it, as my protoype keyboard was simply build up on veroboard, I'm reasonably sure though that the keyboard PCB is compatible with rev 4.0, if I can find the old layout and check it for compatibility with Rev 4.0 I will upload it here, in any case a working keyboard overlay tht will work with a veroboard hoebrew, or a real keyboard PCB has been uploaded.
+I designed a schematic for it, but never tested it, as my protoype keyboard was simply build up on veroboard, very soon I will upload an improved schematic, and a PCB for the keyboard. I'm reasonably sure though that the new keyboard PCB will be compatible with rev 4.0, I have aquired a read ZX-81 to check, and if I can find the old layout I will also check it for compatibility with Rev 4.0 I will upload it here, in any case a working keyboard overlay that will work with a veroboard homebrew, or a real keyboard PCB has been uploaded.
 best way to use it is to laminate the printout with transparent plastic, and to punch out the holes for the key plungers.
 
 ## Licence
