@@ -1,7 +1,7 @@
 ZX81+35
 ====
 
-ZX81+35 is my clone of the Sinclair ZX81, started in 2014, and finished in 2016, it uses modern (SMT) components on a small (10x10cm) PCB, and only uses commercially available parts, so no ULA, and works with the original ZX81 ROM code, and has the maximum possible of 32K of RAM buit in. it supports the back-porch patch which makes it better compatible with modern TV's for clear bright and sharp video.
+ZX81+35 is my clone of the Sinclair ZX81, started in 2014, and finished it 2016, (except for turbo mode which I never got to work while producing a perfect picture quality). It uses modern (SMT) components on a small (10x10cm) PCB, and only uses commercially available parts, so no ULA, and works with the original ZX81 ROM code, and has the maximum possible of 32K of RAM buit in. it supports the back-porch patch which makes it better compatible with modern TV's for clear bright and sharp video.
 
 Its called ZX81plus35 here on github because github doesn't allow for the plus sign in project names.
 
