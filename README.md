@@ -48,9 +48,12 @@ To ease the assembly I constructed an assembly drawing showing which components 
 Obviously I would love to have some feedback if you choose to build my ZX81 clone, you can reach me on the Raspberry PI forum, in this thread:
 https://www.raspberrypi.org/forums/viewtopic.php?f=62&t=77429
 
-I also designed a keyboard overlay for a keyboard with 40 6x6mm buttons mounted in a 1/10" raster.
-I designed a schematic for it, but never tested it, as my protoype keyboard was simply build up on veroboard, very soon I will upload an improved schematic, and a PCB for the keyboard. I'm reasonably sure though that the new keyboard PCB will be compatible with rev 4.0, I have aquired a read ZX-81 to check, and if I can find the old layout I will also check it for compatibility with Rev 4.0 I will upload it here, in any case a working keyboard overlay that will work with a veroboard homebrew, or a real keyboard PCB has been uploaded.
-best way to use it is to laminate the printout with transparent plastic, and to punch out the holes for the key plungers.
+I designed a Keyboard PCB in the form of a 2.5 inch by 6.2 inch single sided PCB, with 40 6x6mm buttons mounted in a 1/10" raste, and uploaded the gerber/drill files here.
+I also designed a keyboard overlay for it.
+I designed a schematic for it, but never tested it, as my protoype keyboard was simply build up on veroboard, I have uploaded an  an improved schematic, and a PCB for the keyboard. I'm certain that the new keyboard PCB will be compatible with rev 4.0, I have aquired a read ZX-81 to check.
+
+best way to use the keyboard overlay is to glue it to thin cardboard, and to laminate this with transparent plastic, and to punch out 40 3.5mm holes for the key plungers to stick through. the keyboard uses fourty industry standard 6x6 mm (6.5 mm wide pitch by 4.5mm high pitch) keys, with 3.5 mm round plungers, a reset button can be attched to it, and it has two 3mm LED's a power LED, and a (currently unused) "turbo" LED.
+the keyboard can be connected to the ZX81+35 (or to a real ZX-81) with flat-flex cables (1/10" pitch flat cables).
 
 ## Licence
 
