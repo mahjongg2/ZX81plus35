@@ -49,11 +49,11 @@ Obviously I would love to have some feedback if you choose to build my ZX81 clon
 https://www.raspberrypi.org/forums/viewtopic.php?f=62&t=77429
 
 I designed a Keyboard PCB in the form of a 2.5 inch by 6.2 inch single sided PCB, with 40 6x6mm buttons mounted in a 1/10" raste, and uploaded the gerber/drill files here.
-I also designed a keyboard overlay for it.
-I designed a schematic for it, but never tested it, as my protoype keyboard was simply build up on veroboard, I have uploaded an  an improved schematic, and a PCB for the keyboard. I'm certain that the new keyboard PCB will be compatible with rev 4.0, I have aquired a read ZX-81 to check.
+I also designed a keyboard overlay for it, you can print it on an A4 sheet, and it should fit the PCB.
 
-best way to use the keyboard overlay is to glue it to thin cardboard, and to laminate this with transparent plastic, and to punch out 40 3.5mm holes for the key plungers to stick through. the keyboard uses fourty industry standard 6x6 mm (6.5 mm wide pitch by 4.5mm high pitch) keys, with 3.5 mm round plungers, a reset button can be attched to it, and it has two 3mm LED's a power LED, and a (currently unused) "turbo" LED.
+best way to use the keyboard overlay is to glue it to thin cardboard, and to laminate this with transparent plastic, then punch out the 40 3.5mm holes for the key plungers to stick through. the keyboard uses fourty industry standard 6x6 mm (6.5 mm wide pitch by 4.5mm high pitch) keys, with 3.5 mm round plungers, a reset button can be attched to it, and it has two 3mm LED's a power LED, and a (currently unused) "turbo" LED.
 the keyboard can be connected to the ZX81+35 (or to a real ZX-81) with flat-flex cables (1/10" pitch flat cables).
+A real Z80 only uses one 5-wire section, and one 8-wire section, The ZX81+35 uses one 18-wire flat-flex FST-22A cable with some wires removed. Alternatively you can used male and female angled headers for a stiffer interconnect.
 
 ## Licence
 
