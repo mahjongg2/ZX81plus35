@@ -55,6 +55,8 @@ best way to use the keyboard overlay is to glue it to thin cardboard, and to lam
 the keyboard can be connected to the ZX81+35 (or to a real ZX-81) with flat-flex cables (1/10" pitch flat cables).
 A real Z80 only uses one 5-wire section, and one 8-wire section, The ZX81+35 uses one 18-wire flat-flex FST-22A cable with some wires removed. Alternatively you can used male and female angled headers for a stiffer interconnect.
 
+If you need help with solving a problem you have with building my ZX81+35 clone, you can reach me at mahjongg commercial-at xs4all.nl. I will be glad to help.
+
 ## Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
