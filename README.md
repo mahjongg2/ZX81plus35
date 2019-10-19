@@ -57,6 +57,9 @@ A real Z80 only uses one 5-wire section, and one 8-wire section, The ZX81+35 use
 
 If you need help with solving a problem you have with building my ZX81+35 clone, you can reach me at mahjongg commercial-at xs4all.nl. I will be glad to help.
 
+P.S. a previous version of the component overview drawing contained an error, U13 was depicted as a 74HC32, it should in fact be a 74HC00. The drawing has been deleted and a new one uploaded.
+I also uploaded a new BOM (bill of materials) in .xlsx format the previously uploaded BOM wasn't downloadable, and if you managed to make sense of the file jumple a download produced also contained an ommission.
+
 ## Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
