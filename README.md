@@ -60,6 +60,8 @@ If you need help with solving a problem you have with building my ZX81+35 clone,
 P.S. a previous version of the component overview drawing contained an error, U13 was depicted as a 74HC32, it should in fact be a 74HC00. The drawing has been deleted and a new one uploaded.
 I also uploaded a new BOM (bill of materials) in .xlsx format the previously uploaded BOM wasn't downloadable, and if you managed to make sense of the file jumple a download produced also contained an ommission.
 
+The .ZIP with production files now contains a new silk screen file with the text TURBO / NORMAL corrected.
+
 ## Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
