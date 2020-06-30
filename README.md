@@ -30,7 +30,7 @@ It also has both acceleration features, which enabling can be combined using a d
 
 The keyboard supports a reset input, (pressing two buttons simultaniously) as well as turbo and power on LED's, but should otherwise be fully compatible with a real ZX81.
 
-A complete step by step description of the design process with all improvements I did for Rev 4.0 up-to september 2016 can be read here:
+A complete step by step description of the design process with all improvements I did for Rev 4.1 up-to June 2020 can be read here:
 https://revspace.nl/ZX81PLUS34_ZX81_clone
 
 release
@@ -62,7 +62,8 @@ I also uploaded a new BOM (bill of materials) in .xlsx format the previously upl
 
 The .ZIP with production files now contains a new silk screen file with the text TURBO / NORMAL corrected.`
 
-In july 2020, during the corona crisis, I was contacted by someone who tried to build a ZX81+35, and warned me that there were conflicts between the top-copper layer and the top soldermask. I investigated the matter, and discovered that the .ZIP file contained an older version of the solder mask.
+In june 2020, during the corona crisis, I was contacted by someone who tried to build a ZX81+35, and warned me that there were conflicts between the top-copper layer and the top soldermask. I investigated the matter, and discovered that the .ZIP file contained an older version of the solder mask.
+The problem must have been intruduced when I tried to correct a small error in the silk screen when I discovered U13 was labeled as an HC32 instead of a HC00, as before that modification someone sucessfully built a rev 4,0 version.
 
 So I repaired the gerber files which now are revision 1.4. If you have downloaded an older version, please throw it away, and use the revision 1.4 Version, or if you already made PCB'(s) use an xacto knife (chirurgical blades) to remove the solder mask of the components that are covered in the top right corner.
 
