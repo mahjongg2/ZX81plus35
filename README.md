@@ -62,7 +62,7 @@ I also uploaded a new BOM (bill of materials) in .xlsx format the previously upl
 
 The .ZIP with production files now contains a new silk screen file with the text TURBO / NORMAL corrected.`
 
-In july 2020, during the corona crisis, I was contacted by someone who tried to build a ZX81+35, and warned me that there were conflicts between the top-copper layer and the to soldermask. I investigated the matter, and discovered that the .ZIP file contained an older version of the solder mask.
+In july 2020, during the corona crisis, I was contacted by someone who tried to build a ZX81+35, and warned me that there were conflicts between the top-copper layer and the top soldermask. I investigated the matter, and discovered that the .ZIP file contained an older version of the solder mask.
 
 So I repaired the gerber files which now are revision 1.4. If you have downloaded an older version, please throw it away, and use the revision 1.4 Version, or if you already made PCB'(s) use an xacto knife (chirurgical blades) to remove the solder mask of the components that are covered in the top right corner.
 
