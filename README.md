@@ -67,7 +67,7 @@ The problem must have been intruduced when I tried to correct a small error in t
 
 So I repaired the gerber files which now are revision 1.4. If you have downloaded an older version, please throw it away, and use the revision 1.4 Version, or if you already made PCB'(s) use an xacto knife (chirurgical blades) to remove the solder mask of the components that are covered in the top right corner.
 
-Note that revision 1.4 still has two errors, A13 and A14 are swapped on the expansion connector, this will be repaired in revision 1.5, as weel as the keyboard address line A8, which erroniously was connected to A8'
+Note that revision 1.4 still has two errors, A13 and A14 are swapped on the expansion connector, this will be repaired in revision 1.5, as well as the keyboard address line A8, which erroniously was connected to A8'
 
 My apologies.
 
