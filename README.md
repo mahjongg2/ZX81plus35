@@ -1,7 +1,7 @@
 ZX81+35
 ====
 
-Note, (5 july, 2022) due to an oversight I used some logic IC from the LS family, this is a mistake, in my previous design I only used HC logic for everything, this design should do the same! I will update the schematic, BOM, and component placement file as soon as I can, in the menawhile replace all HCT and LS logic with HC logic! By the way there are reports that state that the currrent mix of logic families does result in a working computer, but technically an LS (or HCT) IC should not be able to successfully drive a HC logic chip. My apologies!
+Note, (5 july, 2022) due to an oversight I used some logic IC from the LS and HCT families, this is a mistake, in my previous design I only used HC logic for everything, this design should do the same! I will update the schematic, BOM, and component placement file as soon as I can, in the menawhile replace all HCT and LS logic with HC logic! By the way there are reports that state that the currrent mix of logic families does result in a working computer, but technically an LS (or HCT) IC should not be able to successfully drive a HC logic chip. My apologies!
 
 ZX81+35 is my clone of the Sinclair ZX81, started in 2014, and finished it 2016, (except for turbo mode which I never got to work while producing a perfect picture quality). It uses modern (SMT) components on a small (10x10cm) PCB, and only uses commercially available parts, so no ULA, and works with the original ZX81 ROM code, and has the maximum possible of 32K of RAM buit in. it supports the back-porch patch which makes it better compatible with modern TV's for clear bright and sharp video.
 
