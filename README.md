@@ -71,6 +71,10 @@ Note that revision 1.4 still has two errors, A13 and A14 are swapped on the expa
 
 My apologies.
 
+# corrected revison 4,1 gerbers
+The file "ZX81+35 - Production files" is empty! please use the file ZX81+35 REV4,1.zip instead.
+Somehow I'm not able to delete the corrupted version, which is empty!
+
 ## Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
